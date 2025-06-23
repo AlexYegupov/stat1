@@ -1,5 +1,5 @@
 name = "stat1"
 compatibility_date = "2025-06-23"
 
-[site]
-bucket = "./" # если index.html в корне
+[assets]
+directory = "./"  
